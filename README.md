@@ -63,7 +63,7 @@ Desenvolvedor, QA, streamer e entusiasta de IA, criador da marca **AI! Nando**, 
 
 ## 👨‍💻 Desenvolvido por
 
-**Fernando Cavalheiro Gianini**  
+[Fernando Gianini (AI! Nando)](https://www.linkedin.com/in/fernandogianini/)
 Criador da marca **AI! Nando**  
 Apaixonado por inovação, tecnologia e educação acessível.
 
