@@ -34,14 +34,11 @@ O podcast se propõe a:
 
 ---
 
-## 👤 Apresentação
+## 🧩 Prompts Utilizados
 
 🎙️ **Apresentador**: [Fernando Gianini (AI! Nando)](https://www.notion.so/Artista-1dee84bf3a4680e784fdeeecfd2fd5f2)  
 Desenvolvedor, QA, streamer e entusiasta de IA, criador da marca **AI! Nando**, que promove conteúdo educativo com foco em tecnologia, programação e inteligência artificial.
-
----
-
-## 🧩 Prompts Utilizados
+> Prompts de marketing para criação de imagem pessoal do apresentador do podcast.
 
 ### 📌 [Criação do título e subtítulo do podcast](https://www.notion.so/Titulo-e-Subtitulo-1dee84bf3a4680668878da2d538a5c63)
 > Prompts de marketing para criação de uma marca atrativa e nome memorável com estética geek e tech.
